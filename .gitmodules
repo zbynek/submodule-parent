@@ -1,0 +1,3 @@
+[submodule "offspring2"]
+	path = offspring2
+	url = https://github.com/zbynek/submodule-child
